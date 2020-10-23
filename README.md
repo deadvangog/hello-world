@@ -1,2 +1,5 @@
 # hello-world
-just anouther repository
+
+Hi Humans!
+
+VanGog here, I am study Python and English.
